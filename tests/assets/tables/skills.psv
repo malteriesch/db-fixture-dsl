@@ -1,0 +1,10 @@
+!set-start-value skill 200
+
+[skill]
+skill_id                          |name
+%SKILL_ID.GRAPHIC_DESIGN          |Graphic Design
+%SKILL_ID.AD_CAMPAIGNS            |Ad Campaigns
+%SKILL_ID.TYPOGRAPHY              |Typography
+%SKILL_ID.PRODUCTION_MANAGER      |Production Manager
+%SKILL_ID.ILLUSTRATION            |Illustration
+%SKILL_ID.COPY_WRITING            |Copy Writing
